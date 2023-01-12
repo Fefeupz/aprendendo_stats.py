@@ -1,0 +1,4 @@
+from scipy import stats
+values = [13, 21, 21, 40, 42, 48, 55, 72]
+x = stats.iqr(values)
+print(x)
