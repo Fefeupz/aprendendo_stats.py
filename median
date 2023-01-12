@@ -1,0 +1,10 @@
+import numpy
+
+values = [139, 126, 116, 123, 150, 124, 121]
+values.sort()
+
+print (values)
+
+x = numpy.median(values)
+
+print(x)
