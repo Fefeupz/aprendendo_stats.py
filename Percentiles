@@ -1,0 +1,7 @@
+import numpy 
+
+values = [13, 21, 21, 40, 42, 48, 55, 78]
+
+x = numpy.percentile(values, 65)
+
+print(x)
