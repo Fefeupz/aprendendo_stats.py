@@ -1,2 +1,2 @@
 # learning.python
-Some things i'm learning on python
+Some things i'm learning with python
